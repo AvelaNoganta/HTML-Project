@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  I have learnt that a lot has changed ever since the last version HTML4. 
+  HTML5 now caters elements differentlY, they no longer use <s></s> for strike through but a <del></del> or <ins></ins> tags.I also learnt that there is no need to use <br> tag also to separate paragraphs, you can simple use the <p></p> tag.
+  * What has been easy?
+  What has been easy is following the instructions, Displaying pictures and creating links.
+  * What has been difficult?
+  Nothing has been difficult as yet.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Yes I have, those previous activities has been so useful. 
+
+---
+
+Your response goes here!
